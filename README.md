@@ -13,20 +13,25 @@ Git:
 
 ## 1. 前端技术
 Javascript
-[JavaScriptの「基礎」](https://www.youtube.com/watch?v=E08jeQBa1D0)
+- [JavaScriptの「基礎」](https://www.youtube.com/watch?v=E08jeQBa1D0)
 
 Angular
-[Angular 公式チュートリアル](https://www.youtube.com/watch?v=GFG3c-dIR5Q)
+- [Angular 公式チュートリアル](https://www.youtube.com/watch?v=GFG3c-dIR5Q)
 
 Vue.js
-[Vue.js入門](https://www.youtube.com/playlist?list=PLh6V6_7fbbo-SZYHHBVFstU2tp0dDZMAW)
+- [Vue.js入門](https://www.youtube.com/playlist?list=PLh6V6_7fbbo-SZYHHBVFstU2tp0dDZMAW)
 
 
 
 ## 2. 后端技术
 
+Java
+- [【有料級】JavaでDB接続するJDBCプログラミングを完全解説](https://www.youtube.com/watch?v=wu4YCDyJFPg)
+
+Springboot
+- [String Boot入門](https://www.youtube.com/playlist?list=PLhFoWnF68aPRjK1owzX811iR3K3y-ZcRA)
+
 ## 3. 数据库
 
 初学者：
-
-[【SQL入門講座 合併版】SQLの基本をたった1時間で学べます【初心者向けデータベース入門】](https://www.youtube.com/watch?v=v-Mb2voyTbc)
+- [【SQL入門講座 合併版】SQLの基本をたった1時間で学べます【初心者向けデータベース入門】](https://www.youtube.com/watch?v=v-Mb2voyTbc)
