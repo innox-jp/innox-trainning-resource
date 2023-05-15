@@ -12,6 +12,9 @@ Git:
 
 
 ## 1. 前端技术
+HTML & CSS
+- [HTMLとは？初心者でもWebページが作成できる入門講座！](https://www.youtube.com/watch?v=HX3sOdy0oHs)
+- [CSSを始めよう](https://www.youtube.com/playlist?list=PLCyDm9NTxdhJodZ5MH_EeLQ_ET472cco5)
 Javascript
 - [JavaScriptの「基礎」](https://www.youtube.com/watch?v=E08jeQBa1D0)
 
@@ -33,5 +36,4 @@ Springboot
 
 ## 3. 数据库
 
-初学者：
 - [【SQL入門講座 合併版】SQLの基本をたった1時間で学べます【初心者向けデータベース入門】](https://www.youtube.com/watch?v=v-Mb2voyTbc)
