@@ -2,7 +2,7 @@
 ## 0. 学习工具 & 基础知识
 
 工具
-- [Youtube字幕自动翻译插件](https://chrome.google.com/webstore/detail/language-reactor/hoombieeljmmljlkjmnheibnpciblicm)
+- [Youtube字幕自动翻译插件:Language Reactor](https://chrome.google.com/webstore/detail/language-reactor/hoombieeljmmljlkjmnheibnpciblicm)
 
 Unix/Linx Shell:
 - [【NGSハンズオン】UNIX/Linuxとスクリプト言語 - シェルスクリプト入門](https://www.youtube.com/watch?v=eISlS3VsI_I)
