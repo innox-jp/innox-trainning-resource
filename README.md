@@ -10,6 +10,9 @@ Unix/Linx Shell:
 Git:
 - [【Git入門講座 合併版】この動画1本でGitとGitHubの基礎をゼロからマスター！【初心者向け】](https://www.youtube.com/watch?v=WHwuNP4kalU)
 
+AI 代码帮助
+- [Cody AI by Sourcegraph](https://marketplace.visualstudio.com/items?itemName=sourcegraph.cody-ai)
+- [AWS版GitHub Copilot Amazon CodeWhispererを試す](https://maasaablog.com/integrated-development-environment/visual-studio-code/6121/)
 
 ## 1. 前端技术
 HTML & CSS
