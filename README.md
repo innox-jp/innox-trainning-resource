@@ -18,6 +18,7 @@ AI 代码帮助
 HTML & CSS
 - [HTMLとは？初心者でもWebページが作成できる入門講座！](https://www.youtube.com/watch?v=HX3sOdy0oHs)
 - [CSSを始めよう](https://www.youtube.com/playlist?list=PLCyDm9NTxdhJodZ5MH_EeLQ_ET472cco5)
+- [Tailwind](https://juejin.cn/post/7231539903649398843
 Javascript
 - [JavaScriptの「基礎」](https://www.youtube.com/watch?v=E08jeQBa1D0)
 
@@ -33,6 +34,8 @@ Vue.js
 
 Java
 - [【有料級】JavaでDB接続するJDBCプログラミングを完全解説](https://www.youtube.com/watch?v=wu4YCDyJFPg)
+
+
 
 Springboot
 - [String Boot入門](https://www.youtube.com/playlist?list=PLhFoWnF68aPRjK1owzX811iR3K3y-ZcRA)
