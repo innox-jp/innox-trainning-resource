@@ -10,6 +10,8 @@ Unix/Linx Shell:
 Git:
 - [:clapper: 【Git入門講座 合併版】この動画1本でGitとGitHubの基礎をゼロからマスター！【初心者向け】](https://www.youtube.com/watch?v=WHwuNP4kalU)
 - [:clapper:【初心者向け】Visual Studio Codeを使ったGit Github入門 Github Actionsを使った自動デプロイも紹介](https://www.youtube.com/watch?v=hdpMw3hyQq4)
+- [:clapper:[vscode] 最强git插件：GitLens](https://www.youtube.com/watch?v=pfgFU2JKnI8)
+- [:clapper:Visual Studio Code入門 #07：Gitクライアントはもういらない！ VSCodeで、Gitを使いこなそう](https://www.youtube.com/watch?v=vMZ0C06soxA)
 
 AI 代码帮助
 - [Cody AI by Sourcegraph](https://marketplace.visualstudio.com/items?itemName=sourcegraph.cody-ai)
@@ -19,7 +21,7 @@ AI 代码帮助
 HTML & CSS
 - [:clapper: HTMLとは？初心者でもWebページが作成できる入門講座！](https://www.youtube.com/watch?v=HX3sOdy0oHs)
 - [:clapper: CSSを始めよう](https://www.youtube.com/playlist?list=PLCyDm9NTxdhJodZ5MH_EeLQ_ET472cco5)
-- [Tailwind](https://juejin.cn/post/7231539903649398843)
+- [快速掌握 Tailwind：最流行的原子化 CSS 框架](https://juejin.cn/post/7231539903649398843)
 
 Javascript
 - [:clapper: JavaScriptの「基礎」](https://www.youtube.com/watch?v=E08jeQBa1D0)
