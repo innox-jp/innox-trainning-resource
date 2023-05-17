@@ -9,6 +9,7 @@ Unix/Linx Shell:
 
 Git:
 - [:clapper: 【Git入門講座 合併版】この動画1本でGitとGitHubの基礎をゼロからマスター！【初心者向け】](https://www.youtube.com/watch?v=WHwuNP4kalU)
+- [:clapper:【初心者向け】Visual Studio Codeを使ったGit Github入門 Github Actionsを使った自動デプロイも紹介](https://www.youtube.com/watch?v=hdpMw3hyQq4)
 
 AI 代码帮助
 - [Cody AI by Sourcegraph](https://marketplace.visualstudio.com/items?itemName=sourcegraph.cody-ai)
