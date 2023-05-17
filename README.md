@@ -18,6 +18,9 @@ AI 代码帮助
 - [AWS版GitHub Copilot Amazon CodeWhispererを試す](https://maasaablog.com/integrated-development-environment/visual-studio-code/6121/)
 
 ## 1. 前端技术
+UI设计
+- [:clapper:Figmaでプレゼンテーション資料を作ろう](https://www.youtube.com/watch?v=RdxClGSg4iE)
+
 HTML & CSS
 - [:clapper: HTMLとは？初心者でもWebページが作成できる入門講座！](https://www.youtube.com/watch?v=HX3sOdy0oHs)
 - [:clapper: CSSを始めよう](https://www.youtube.com/playlist?list=PLCyDm9NTxdhJodZ5MH_EeLQ_ET472cco5)
