@@ -20,6 +20,8 @@ AI 代码帮助
 ## 1. 前端技术
 UI设计
 - [:clapper:Figmaでプレゼンテーション資料を作ろう](https://www.youtube.com/watch?v=RdxClGSg4iE)
+- [:clapper:Figma初級チュートリアル](https://www.youtube.com/playlist?list=PLpe817jgOmIr0Hkx1RxsHRtnVVrj5Mjtz)
+
 
 HTML & CSS
 - [:clapper: HTMLとは？初心者でもWebページが作成できる入門講座！](https://www.youtube.com/watch?v=HX3sOdy0oHs)
