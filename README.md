@@ -44,6 +44,7 @@ Vue.js
 
 Java
 - [:clapper:【有料級】JavaでDB接続するJDBCプログラミングを完全解説](https://www.youtube.com/watch?v=wu4YCDyJFPg)
+- [:clapper:【Java入門講座 総集編】超初心者歓迎！Javaの基本文法がすべてマスターできる！](https://www.youtube.com/watch?v=BBKVCkdqS8g)
 
 
 
