@@ -26,8 +26,9 @@ UI设计
 HTML & CSS
 - [:clapper: HTMLとは？初心者でもWebページが作成できる入門講座！](https://www.youtube.com/watch?v=HX3sOdy0oHs)
 - [:clapper: CSSを始めよう](https://www.youtube.com/playlist?list=PLCyDm9NTxdhJodZ5MH_EeLQ_ET472cco5)
-- [快速掌握 Tailwind：最流行的原子化 CSS 框架](https://juejin.cn/post/7231539903649398843)
-- [Tailwind CSS 中文教程](https://www.w3cschool.cn/tailwind_css/)
+- [日本語対応！CSS Flexboxのチートシートを作ったので配布します](https://www.webcreatorbox.com/tech/css-flexbox-cheat-sheet)
+- [中文][快速掌握 Tailwind：最流行的原子化 CSS 框架](https://juejin.cn/post/7231539903649398843)
+- [中文][Tailwind CSS 中文教程](https://www.w3cschool.cn/tailwind_css/)
 
 Javascript
 - [:clapper: JavaScriptの「基礎」](https://www.youtube.com/watch?v=E08jeQBa1D0)
