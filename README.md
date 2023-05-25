@@ -27,6 +27,7 @@ HTML & CSS
 - [:clapper: HTMLとは？初心者でもWebページが作成できる入門講座！](https://www.youtube.com/watch?v=HX3sOdy0oHs)
 - [:clapper: CSSを始めよう](https://www.youtube.com/playlist?list=PLCyDm9NTxdhJodZ5MH_EeLQ_ET472cco5)
 - [日本語対応！CSS Flexboxのチートシートを作ったので配布します](https://www.webcreatorbox.com/tech/css-flexbox-cheat-sheet)
+- [:clapper: CSS入門講座 #11：Flexbox（フレックスボックス）でレイアウトを組もう](https://www.youtube.com/watch?v=UF5SDgT2eTc)
 - [CSS Flexbox 各プロパティの使い方を詳しく解説](https://coliss.com/articles/build-websites/operation/css/css3-flexbox-properties-by-scotch.html)
 - [中文][快速掌握 Tailwind：最流行的原子化 CSS 框架](https://juejin.cn/post/7231539903649398843)
 - [中文][Tailwind CSS 中文教程](https://www.w3cschool.cn/tailwind_css/)
