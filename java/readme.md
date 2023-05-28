@@ -9,7 +9,7 @@
 
 1. Java 基础
 
-    关键字： package, class, public, static
+    关键字： 50多个， package, class, public, static
 
     maven: pom.xml, java项目目录结构
 
@@ -30,6 +30,8 @@
     Java: class, interface, super, extends, implements 
 
     程序生命周期： 构思， 编写， 编译运行
+
+    构思高尔夫球游戏，赛车游戏？
 
     编程思想: 面向类型的思考方式，类型有值，有限制， 组合类型的方式扩展成任意类，一生二，二生三，三生万物
 
