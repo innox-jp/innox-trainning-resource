@@ -17,7 +17,7 @@
 
 2. Java 程序设计
     
-    Java: 8个基础类型 
+    Java: 8个基础类型， void
 
     程序生命周期： 构思， 编写， 编译运行
 
@@ -27,7 +27,7 @@
 
 3. Java 程序设计
     
-    Java: class interface,  
+    Java: class, interface, super, extends, implements 
 
     程序生命周期： 构思， 编写， 编译运行
 
