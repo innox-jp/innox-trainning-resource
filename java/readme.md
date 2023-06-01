@@ -25,7 +25,7 @@
 
     [课程ai问答](https://chat.forefront.ai/share/xbxfaa9snbaa9oup)
 
-3. Java 程序设计
+3. Java 程序设计 时间：6月3日周六下午4点
     
     Java: 类关系 class, interface, super, extends, implements； this
 
