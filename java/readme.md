@@ -9,7 +9,7 @@
 
 ## 大纲
 
-1. Java 基础
+### 1. Java 基础
 
     关键字： 50多个， package, class, public, static
 
@@ -17,7 +17,7 @@
 
     编程思想： 类比乐高， 自然语言
 
-2. Java 程序设计
+### 2. Java 程序设计
     
     Java: 8个基础类型， void
 
@@ -27,7 +27,7 @@
 
     [课程ai问答](https://chat.forefront.ai/share/xbxfaa9snbaa9oup)
 
-3. Java 程序设计 时间：6月3日周六下午4点
+### 3. Java 程序设计 时间：6月3日周六下午4点
     
     Java: 类关系 class, interface, super, extends, implements； this
 
