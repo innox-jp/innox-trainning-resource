@@ -5,6 +5,8 @@
 
 [代码库](https://github.com/innox-jp/java-course)
 
+[Java 教程](https://www.runoob.com/java/java-tutorial.html)
+
 ## 大纲
 
 1. Java 基础
