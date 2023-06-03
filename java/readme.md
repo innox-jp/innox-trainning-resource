@@ -20,6 +20,7 @@ maven: pom.xml, java项目目录结构
 ### 2. Java 程序设计
     
 Java: 8个基础类型， void
+![数据类型](http://www.btechsmartclass.com/java/java_images/java-data-types.jpg)
 
 程序生命周期： 构思， 编写， 编译运行
 
