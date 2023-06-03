@@ -23,6 +23,7 @@ Java: 8个基础类型， void
 ![数据类型](http://www.btechsmartclass.com/java/java_images/java-data-types.jpg)
 
 程序生命周期： 构思， 编写， 编译运行
+![java程序](https://www.runoob.com/wp-content/uploads/2013/12/ZSSDMld.png)
 
 编程思想: 面向类型的思考方式，类型有值，有限制， 组合类型的方式扩展成任意类，一生二，二生三，三生万物
 
