@@ -55,7 +55,7 @@ Java: 过程控制： if, else, switch,case, for, while, break, continue； Java
 
 ### 5. Java 程序设计
     
-Java:  Java 数据结构，集合框架， 泛型
+Java 数据结构，集合框架， 泛型
 
 代码阅读
 
@@ -63,7 +63,7 @@ Java:  Java 数据结构，集合框架， 泛型
 
 ### 6. Java 程序设计
     
-Java:  Java 数据结构，集合框架， 泛型
+Java 数据结构，集合框架， 泛型
 
 代码阅读
 
