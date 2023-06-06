@@ -43,4 +43,31 @@ Java: 类关系 class, interface, super, extends, implements； this
 
 编程思想: 面向类型的思考方式，状态，行为，封装，继承， 组合类型的方式扩展成任意类，一生二，二生三，三生万物
 
+作业： [Java 简介](https://www.runoob.com/java/java-intro.html) ; [Java 基础语法](https://www.runoob.com/java/java-basic-syntax.html); [Java 对象和类](https://www.runoob.com/java/java-object-classes.html); [Java 基本数据类型](https://www.runoob.com/java/java-basic-datatypes.html)
+
+### 4. Java 程序设计
+    
+Java: 过程控制： if, else, switch,case, for, while, break, continue； Java 常用类String, Number, Array, File, Scanner, 
+
+构思高尔夫球游戏，赛车游戏
+
+编程思想: 面向类型的思考方式，状态，行为，封装，继承， 组合类型的方式扩展成任意类，一生二，二生三，三生万物
+
+### 5. Java 程序设计
+    
+Java:  Java 数据结构，集合框架， 泛型
+
+代码阅读
+
+实现高尔夫球游戏
+
+### 6. Java 程序设计
+    
+Java:  Java 数据结构，集合框架， 泛型
+
+代码阅读
+
+实现赛车游戏
+
+
 
