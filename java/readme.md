@@ -7,7 +7,7 @@
 
 [Java 教程](https://www.runoob.com/java/java-tutorial.html)
 
-[Java 教程](https://www.runoob.com/java/java-tutorial.html)
+[Java SE, JDK 文档](https://www.runoob.com/manual/jdk11api/index.html)
 
 ## 大纲
 
