@@ -7,6 +7,8 @@
 
 [Java 教程](https://www.runoob.com/java/java-tutorial.html)
 
+[Java 教程](https://www.runoob.com/java/java-tutorial.html)
+
 ## 大纲
 
 ### 1. Java 基础
@@ -53,17 +55,21 @@ Java: 过程控制： if, else, switch,case, for, while, break, continue； Java
 
 编程思想: 面向类型的思考方式，状态，行为，封装，继承， 组合类型的方式扩展成任意类，一生二，二生三，三生万物
 
-作业：[Java 循环结构](https://www.runoob.com/java/java-loop.html)；[Java 条件语句](https://www.runoob.com/java/java-if-else-switch.html)；[Java switch case 语句](https://www.runoob.com/java/java-switch-case.html)； [Java 简介](https://www.runoob.com/java/java-intro.html) ; [Java 基础语法](https://www.runoob.com/java/java-basic-syntax.html); [Java 对象和类](https://www.runoob.com/java/java-object-classes.html); [Java 基本数据类型](https://www.runoob.com/java/java-basic-datatypes.html); 
+作业：[Java 循环结构](https://www.runoob.com/java/java-loop.html)；[Java 条件语句](https://www.runoob.com/java/java-if-else-switch.html)；[Java switch case 语句](https://www.runoob.com/java/java-switch-case.html)；  
 
 ### 5. Java 程序设计
     
-Java 数据结构，集合框架， 泛型
+Java 基础类，Integer, String, Object
 
-代码阅读
+代码阅读: Integer, String
 
-实现高尔夫球游戏
+作业：
 
-### 6. Java 程序设计
+- 文章阅读：[Java String 类](https://www.runoob.com/java/java-string.html); [Java 数组](https://www.runoob.com/java/java-array.html);  [Java Number & Math 类](https://www.runoob.com/java/java-number.html);
+- 程序文档，代码阅读： [字符串类](https://www.runoob.com/manual/jdk11api/java.base/java/lang/String.html)，  [整数类型](https://www.runoob.com/manual/jdk11api/java.base/java/lang/Integer.html)，
+- 高尔夫计分练习
+
+### 6. Java 程序设计 7月2号周日上午10点半
     
 Java 数据结构，集合框架， 泛型
 
