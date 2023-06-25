@@ -69,7 +69,7 @@ Java SE, JDK 介绍； Java 基础类，Integer, String, Object
 - 程序文档，代码阅读： [字符串类](https://www.runoob.com/manual/jdk11api/java.base/java/lang/String.html)，  [整数类型](https://www.runoob.com/manual/jdk11api/java.base/java/lang/Integer.html)，
 - 高尔夫计分练习 [计分参考](http://www.eaglesky.com.cn/news/n2/81.html)
 
-### 6. Java 程序设计 7月2号周日上午10点半
+### 6. Java 程序设计 7月9号周日上午10点半
     
 Java 数据结构，集合框架， 泛型
 
