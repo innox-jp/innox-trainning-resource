@@ -34,6 +34,7 @@ HTML & CSS
 - [中文][css选择器优先级顺序](https://worktile.com/kb/ask/29577.html#:~:text=CSS%E9%80%89%E6%8B%A9%E5%99%A8%E7%9A%84%E4%BC%98%E5%85%88,%E8%87%AA%E5%AE%9A%E4%B9%89%E5%B1%9E%E6%80%A7%E5%92%8C%E7%BB%A7%E6%89%BF%E3%80%82)
 - [中文][面试官：说下CSS选择器优先级](https://juejin.cn/post/6844904159305531406)
 - [中文][优先级](https://developer.mozilla.org/zh-CN/docs/Web/CSS/Specificity)
+- [英文][动画学习html,css](https://www.anilearn.dev/css/box-model)
 
 Javascript
 - [:clapper: JavaScriptの「基礎」](https://www.youtube.com/watch?v=E08jeQBa1D0)
