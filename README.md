@@ -1,7 +1,7 @@
 # innox培训材料
 ## 0. 学习工具 & 基础知识
 
-工具
+工具：
 - [Youtube字幕自动翻译插件:Language Reactor](https://chrome.google.com/webstore/detail/language-reactor/hoombieeljmmljlkjmnheibnpciblicm)
 
 Unix/Linx Shell:
@@ -13,9 +13,12 @@ Git:
 - [:clapper:[vscode] 最强git插件：GitLens](https://www.youtube.com/watch?v=pfgFU2JKnI8)
 - [:clapper:Visual Studio Code入門 #07：Gitクライアントはもういらない！ VSCodeで、Gitを使いこなそう](https://www.youtube.com/watch?v=vMZ0C06soxA)
 
-AI 代码帮助
+AI 代码帮助：
 - [Cody AI by Sourcegraph](https://marketplace.visualstudio.com/items?itemName=sourcegraph.cody-ai)
 - [AWS版GitHub Copilot Amazon CodeWhispererを試す](https://maasaablog.com/integrated-development-environment/visual-studio-code/6121/)
+
+算法：
+-[hello算法](https://www.hello-algo.com/)
 
 ## 1. 前端技术
 UI设计
