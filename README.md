@@ -18,7 +18,7 @@ AI 代码帮助：
 - [AWS版GitHub Copilot Amazon CodeWhispererを試す](https://maasaablog.com/integrated-development-environment/visual-studio-code/6121/)
 
 算法：
--[hello算法](https://www.hello-algo.com/)
+- [hello算法](https://www.hello-algo.com/)
 
 ## 1. 前端技术
 UI设计
