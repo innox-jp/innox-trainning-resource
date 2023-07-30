@@ -73,6 +73,7 @@ Java SE, JDK 介绍； Java 基础类，Integer, String, Object
 
 ### 7. Java 程序设计 7月23日    
 Java 数据结构，集合框架， 泛型 <>
+![java集合框架](https://github.com/innox-jp/innox-trainning-resource/assets/116800/0725a9bc-5839-4d32-a0a1-e3d989f1d357)
 
 代码阅读
 
