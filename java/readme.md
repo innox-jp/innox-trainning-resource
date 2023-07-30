@@ -1,5 +1,5 @@
 # 课程：
-每周日上午10点半 
+每周日下午3点 
 
 [视频会议连接](https://meet.jit.si/innox.online.class)
 
