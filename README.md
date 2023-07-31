@@ -21,19 +21,19 @@ AI 代码帮助：
 - [hello算法](https://www.hello-algo.com/)
 
 ## 1. 前端技术
-### UI设计
+### a. UI设计
 - [:clapper:Figmaでプレゼンテーション資料を作ろう](https://www.youtube.com/watch?v=RdxClGSg4iE)
 - [:clapper:Figma初級チュートリアル](https://www.youtube.com/playlist?list=PLpe817jgOmIr0Hkx1RxsHRtnVVrj5Mjtz)
 
 
-### HTML & CSS
+### b. HTML & CSS
 - [:clapper: HTMLとは？初心者でもWebページが作成できる入門講座！](https://www.youtube.com/watch?v=HX3sOdy0oHs)
 - [:clapper: CSSを始めよう](https://www.youtube.com/playlist?list=PLCyDm9NTxdhJodZ5MH_EeLQ_ET472cco5)
 - [中文][面试官：说下CSS选择器优先级](https://juejin.cn/post/6844904159305531406)
 - [中文][优先级](https://developer.mozilla.org/zh-CN/docs/Web/CSS/Specificity)
 - [英文][动画学习html,css](https://www.anilearn.dev/css/box-model)
 - [中文][css选择器优先级顺序](https://worktile.com/kb/ask/29577.html#:~:text=CSS%E9%80%89%E6%8B%A9%E5%99%A8%E7%9A%84%E4%BC%98%E5%85%88,%E8%87%AA%E5%AE%9A%E4%B9%89%E5%B1%9E%E6%80%A7%E5%92%8C%E7%BB%A7%E6%89%BF%E3%80%82)
-#### HTML & CSS页面布局
+#### b.1 HTML & CSS页面布局
 - [日本語対応！CSS Flexboxのチートシートを作ったので配布します](https://www.webcreatorbox.com/tech/css-flexbox-cheat-sheet)
 - [:clapper: CSS入門講座 #11：Flexbox（フレックスボックス）でレイアウトを組もう](https://www.youtube.com/watch?v=UF5SDgT2eTc)
 - [CSS Flexbox 各プロパティの使い方を詳しく解説](https://coliss.com/articles/build-websites/operation/css/css3-flexbox-properties-by-scotch.html)
@@ -42,13 +42,13 @@ AI 代码帮助：
 - [中文][快速掌握 Tailwind：最流行的原子化 CSS 框架](https://juejin.cn/post/7231539903649398843)
 - [中文][Tailwind CSS 中文教程](https://www.w3cschool.cn/tailwind_css/)
 
-Javascript
+### c. Javascript
 - [:clapper: JavaScriptの「基礎」](https://www.youtube.com/watch?v=E08jeQBa1D0)
 
-Angular
+### d. Angular
 - [:clapper: Angular 公式チュートリアル](https://www.youtube.com/watch?v=GFG3c-dIR5Q)
 
-Vue.js
+### e. Vue.js
 - [:clapper: Vue.js入門](https://www.youtube.com/playlist?list=PLh6V6_7fbbo-SZYHHBVFstU2tp0dDZMAW)
 
 
