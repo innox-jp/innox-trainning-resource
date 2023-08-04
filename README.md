@@ -41,6 +41,7 @@ AI 代码帮助：
 - [CSS Gridを使ったレスポンシブ対応の基本レイアウト](https://www.webcreatorbox.com/tech/css-grid-basic-layout)
 - [中文][快速掌握 Tailwind：最流行的原子化 CSS 框架](https://juejin.cn/post/7231539903649398843)
 - [中文][Tailwind CSS 中文教程](https://www.w3cschool.cn/tailwind_css/)
+- [中文][Tailwind CSS 中文教程](https://tailwind.nodejs.cn/docs/installation)
 
 ### c. Javascript
 - [:clapper: JavaScriptの「基礎」](https://www.youtube.com/watch?v=E08jeQBa1D0)
