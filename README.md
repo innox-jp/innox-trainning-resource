@@ -65,6 +65,7 @@ Java
 
 Springboot
 - [:clapper: String Boot入門](https://www.youtube.com/playlist?list=PLhFoWnF68aPRjK1owzX811iR3K3y-ZcRA)
+- [Spring Boot开发](https://www.liaoxuefeng.com/wiki/1252599548343744/1266265175882464)
 
 ## 3. 数据库
 
